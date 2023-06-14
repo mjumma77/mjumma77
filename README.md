@@ -4,9 +4,7 @@
 I am a **Telecom Engineer** by day and an aspiring **Data Scientist** by night
 ## Hobbies? - *Descending order starting with most preferred*
 - Playing Soccer in the break of dawn! ⚽
-- Playing soccer by sunset! 
-  ![image](https://github.com/mjumma77/mjumma77/assets/107766223/e014eb2c-575b-454b-b5c0-865ced53effd)
-  
+- Playing soccer by sunset!
 - Reading - Politics, Religion and Technical stuff
 - Machine Learning with R & Python. 🤒
 - Dirt Biking
@@ -18,3 +16,4 @@ I am a **Telecom Engineer** by day and an aspiring **Data Scientist** by night
 - Move on mastering Machine Learning
 - Avoid clashing with Statistics
 - From there, well I would want to collect Benjamins 🤑
+![image](https://github.com/mjumma77/mjumma77/assets/107766223/e014eb2c-575b-454b-b5c0-865ced53effd)
