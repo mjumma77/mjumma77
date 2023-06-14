@@ -7,10 +7,10 @@ I am a **Telecom Engineer** by day and an aspiring **Data Scientist** by night
 - Playing soccer by sunset! 
 ![image](https://github.com/mjumma77/mjumma77/assets/107766223/275d004b-fec0-431c-bb75-fa4ab2921c93)
 - Reading
-- Machine Learning with R & Python :face_with_thermometer:
+- Machine Learning with R & Python. :face_with_thermometer:
 ## Education?
 - Finishing my Master's Degree from the one and only FLPoly on June 23rd of 23
 ## What is next?
-- For now I am hoping to be able to produce non-ugly visualizations :⊛_shaking_face:
+- For now I am hoping to be able to produce non-ugly visualizations. :⊛_shaking_face:
 - Then I would move on mastering Machine Learning
 - from there, well I would want to collect Benjamins :money_mouth_face:
