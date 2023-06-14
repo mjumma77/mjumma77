@@ -9,7 +9,7 @@ I am a **Telecom Engineer** by day and an aspiring **Data Scientist** by night
 - Reading
 - Machine Learning with R & Python. 🤒
 ## Education?
-- Finishing my Master's Degree from the one and only FLPoly on June 23rd of 23
+- Finishing my Master's Degree in Data Scince from the one and only FLPoly on June 23rd of 23
 ## What is next?
 - For now I am hoping to be able to produce non-ugly visualizations 😏
 - Then I would move on mastering Machine Learning
